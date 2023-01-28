@@ -7,6 +7,6 @@ public class MyClass {
     	System.out.println("Pom.xml");
     	System.out.println("Utility");
     	System.out.println("Resoures");
-    	System.out.println("suite");
+    	System.out.println("suit");
     }
 }
